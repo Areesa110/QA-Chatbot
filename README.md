@@ -2,8 +2,6 @@
 
 QA ChatBot is a conversational agent designed to answer your questinos. It can answer frequently asked questions to provide assistance with your tasks. 
 
-This can also your previous history in case you need it. 
-
 ## Features
 
 - **Dynamic Content:** Generates or fetches content dynamically based on the user’s query.
